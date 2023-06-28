@@ -22,6 +22,6 @@ Obs: o arquivo do banco de dados foi mandado fundo do projeto (appdb.sql)
 
 
 ## FUNCIONAMENTO
-Para rodar o software basta executar a main que esta em: ..\ProjetoProgApp\src\interface\src\programacaoaplicativos\main.java
+Para rodar o software basta executar a main que esta em: ..\ProjetoProgApp\src\programacaoaplicativos\main.java
 
 
