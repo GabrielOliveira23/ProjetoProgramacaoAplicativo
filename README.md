@@ -1,4 +1,4 @@
-# 📌 Project for the Application Programming Course
+# 📌 Financial Manager
 
 ## 💡 Initial Idea
 Implementation of a **personal finance management software** to help users control their accounts.
